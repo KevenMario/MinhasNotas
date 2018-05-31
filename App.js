@@ -8,7 +8,6 @@ import SobreScreen from './screens/Sobre';
 import PerfilScreen from './screens/Perfil';
 
 
-
 export default createBottomTabNavigator({
     Materias : MateriaScreen,
     Notas : NotasScreen,
